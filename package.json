@@ -2,10 +2,10 @@
   "name": "parcel-project-template_filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TkachenkoKaterina.github.io/Filmoteka",
+  "homepage": "https://GoitStudentsWorks.github.io/js_63_TkachenkoKaterina",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /js_63_TkachenkoKaterina/"
   },
   "repository": {
     "type": "git",
